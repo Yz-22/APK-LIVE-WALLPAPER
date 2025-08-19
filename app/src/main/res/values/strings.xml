@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Video Live Wallpaper</string>
+    <string name="pick_video">Pick a video</string>
+    <string name="set_wallpaper">Set as live wallpaper</string>
+    <string name="wallpaper_desc">Video live wallpaper</string>
+    <string name="explain_pick_first">Please pick a video first</string>
+</resources>
